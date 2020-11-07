@@ -5,13 +5,13 @@ import "fmt"
 //Months with Days, Hours and Minutes
 type Months uint
 
-//Days, Hours and Minutes
+//Days Hours and Minutes
 type Days uint
 
 //Hours and Minutes
 type Hours uint
 
-//Minutes
+//Minutes calculated
 type Minutes uint
 
 //Days calculated from month
